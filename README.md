@@ -45,13 +45,6 @@
 - **[LLM-Research](https://github.com/gian-g3dai/LLM-Research)** — Code Llama fine-tuning with PyTorch FSDP, CUDA-graph optimization, and memory-efficient split cross-entropy
 - **[Poseidon-Triton](https://github.com/gian-g3dai/Poseidon-Triton)** — end-to-end LLM inference serving with NVIDIA Triton + TensorRT-LLM
 
-### GitHub stats
-
-<!-- Change ?theme= on both URLs to taste: tokyonight, github_dark, default, catppuccin_mocha, radical. -->
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=gian-g3dai&show_icons=true&hide_border=true&theme=tokyonight" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gian-g3dai&layout=compact&hide_border=true&theme=tokyonight" alt="top languages" />
-</p>
 
 ### Writing
 
