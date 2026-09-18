@@ -17,15 +17,7 @@
 
 ---
 
-```python
->>> from gian import profile
->>> profile.now()
-Role(title="Founding AI Research Engineer", company="stealth", loc="London, UK")
->>> profile.thesis
-'agents should learn from their own execution traces, not from prompt tweaking'
-```
-
-### `whoami`
+### About
 
 Research engineer working on **reinforcement learning for LLM agents** — I research the methods,
 then ship the ones that survive contact with reality as a Python SDK. Composable primitives for
@@ -36,17 +28,17 @@ Before that I co-founded **Unakin** (CTO) and built **Sawyer**, an autonomous co
 game development, from scratch: custom Llama 2/3 training, our own 8× A100 cluster, and a
 multi-agent orchestration stack deployed to enterprise customers.
 
-### `git log --author="gian" --oneline`
+### Experience
 
-**Founding AI Research Engineer — Stealth** · `Aug 2026 → HEAD` · London
+**Founding AI Research Engineer — Stealth** · Aug 2026 – Present · London
 
 - Python SDK for training LLM agents with RL — one training loop, any agent plugged into it
 - Researching RL methods for agents that learn from their own execution traces: GRPO-style policy
   optimisation, benchmarked against prompt-optimisation approaches like GEPA's Pareto search
-- Composable primitives for rewards, rollouts and evals (`nn.Module` energy, but for agents)
+- Composable primitives for rewards, rollouts and evals, in the style of PyTorch modules
 - The eval harness that decides what ships — improvement on held-out tasks, not on training reward
 
-**Co-founder & CTO — Unakin** · `Jan 2023 → Jul 2026` · London
+**Co-founder & CTO — Unakin** · Jan 2023 – Jul 2026 · London
 
 - Designed and built **Sawyer**: an autonomous coding agent that plans, writes and iterates on game
   code inside Unity with full project context (code, scenes, assets)
@@ -67,11 +59,11 @@ multi-agent orchestration stack deployed to enterprise customers.
 - Core contributor to [pyg4ometry](https://github.com/jairhul/pyg4ometry), an open-source geometry
   library used across HEP
 
-### `focus`
+### Focus areas
 
 `RL for LLM agents` &nbsp; `GRPO / policy optimisation` &nbsp; `agent evals & reward design` &nbsp; `post-training (SFT · LoRA · RLHF)` &nbsp; `distributed training (FSDP · DDP · TP)` &nbsp; `GPU kernels (Triton · CUDA)` &nbsp; `multi-agent orchestration`
 
-### `stack`
+### Tech
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
@@ -84,7 +76,7 @@ multi-agent orchestration stack deployed to enterprise customers.
 ![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white&style=flat-square)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
 
-### `selected work`
+### Selected work
 
 - **[LLM-Research](https://github.com/gian-g3dai/LLM-Research)** — Code Llama fine-tuning with PyTorch
   FSDP, CUDA-graph optimisation, and memory-efficient split cross-entropy
