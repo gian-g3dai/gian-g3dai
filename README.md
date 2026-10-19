@@ -11,4 +11,4 @@ Background: co-founded **Unakin** (CTO), where I trained custom Llama models on 
 - [Agentic-Workflows](https://github.com/gian-g3dai/Agentic-Workflows): Unakin's Visual Studio extension with LLM agents for chat, code search, test generation and more, inside the IDE
 - [pyg4ometry](https://github.com/jairhul/pyg4ometry): open-source geometry library for HEP simulation (contributor)
 
-Reach me on [LinkedIn](https://linkedin.com/in/giandalessandro) or at gianluigidalessandro23@gmail.com.
+Reach me on [LinkedIn](https://linkedin.com/in/giandalessandro).
